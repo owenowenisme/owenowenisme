@@ -1,5 +1,5 @@
 ### Hi there 👋
-[My resume](cv.owenowenisme.com)
+[My resume](https://cv.owenowenisme.com)
 <!--
 **owenowenisme/owenowenisme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
