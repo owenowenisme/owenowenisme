@@ -39,11 +39,10 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=owenowenisme&show_icons=true&locale=en&layout=compact&theme=radical" alt="owenowenisme" /></p>
+![](https://github-readme-stats.vercel.app/api?username=owenowenisme&theme=dark&hide_border=false&include_all_commits=false&count_private=false) &nbsp;![](https://github-readme-streak-stats.herokuapp.com/?user=owenowenisme&theme=dark&hide_border=false)<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=owenowenisme&show_icons=true&locale=en&theme=radical" alt="owenowenisme" /></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=owenowenisme&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=owenowenisme&theme=radical" alt="owenowenisme" /></p>
 
 <p>
   <picture>
