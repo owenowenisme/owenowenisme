@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owenowenisme&label=Profile%20views&color=0e75b6&style=flat" alt="owenowenisme" /> </p>
 
-- 🔭 I’m currently working on [NCKU-CSIE-Past-Exam-System](https://github.com/gdsc-ncku/past-exam)
+- 🔭 I’m currently working on [NCKU-CSIE-Past-Exam-System](https://github.com/gdsc-ncku/past-exam) & [Kuberay](https://github.com/ray-project/kuberay)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
