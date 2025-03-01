@@ -43,6 +43,8 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=owenowenisme&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<a href="https://gitroll.io/profile/uCvIDYPFlRKTUdlAClHVZdM7YBvc2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uCvIDYPFlRKTUdlAClHVZdM7YBvc2?theme=nord" alt="GitRoll Profile Badge" width="500"/></a>
+
 
 <p>
   <picture>
